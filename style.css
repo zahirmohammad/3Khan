@@ -1,0 +1,56 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.team{
+	width:33.33%;
+	height: 400px;
+	background-color:black;
+	padding: 30px 0px;
+	float: left;
+
+}
+
+.team img{
+	width:100px;
+	height:100px;
+	border-radius: 50%;
+	margin:auto;
+	display: table;
+
+	
+
+}
+
+.team h1{
+	margin-top: 15px;
+	text-align: center;
+	color:white;
+	font-family: chiller;
+	font-size:50px;
+	transition: 2s;
+	
+}
+.team h2{
+	text-align: center;
+	color:tomato;
+	font-family:Agency FB ;
+	text-transform: capitalize;
+
+}
+.team p{
+	text-align: center;
+	color:gold;
+	font-family: Harlow Solid Italic;
+	width:80%;
+
+	
+}
+.team img:hover{
+	transform:scale(1.5);
+	
+
+}
+
+
